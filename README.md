@@ -27,17 +27,6 @@ This project was engineered to master core programmatic concepts within JavaScri
 
 ---
 
-## 🗺️ Data & Architectural Roadmap (Future Engineering)
-
-This repository is currently under active development. The upcoming engineering milestones focus on evolving this application from a static script into a data-persistent tool:
-
-* [ ] **Local Storage Integration:** Implement the `localStorage` API to allow client-side caching, saving user preferences, or tracking favorite quotes across sessions.
-* [ ] **User-Generated Input:** Build a structured submission form with robust validation logic to let users add custom strings to the runtime array.
-* [ ] **External API Migration:** Refactor the codebase to fetch real-time quotes asynchronously (`fetch` API / `async/await`) from an external open-source API server.
-* [ ] **Backend & Database Transition:** Migrate the entire dataset into a secure database architecture managed by a custom Python or Node.js server.
-
----
-
 ## ⚙️ Installation & Setup
 
 To run this application locally on your machine:
